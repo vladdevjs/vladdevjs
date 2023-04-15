@@ -11,7 +11,7 @@
 - 🌱 Изучаю React.js, на очереди Redux и TypeScript
 - 👯 Сейчас работаю над проектом «Mesto»
 - 🤔 Пишу pet-проекты, чтобы закрепить навыки
-- 💬 Решаю задачи На Codewars 
+- 💬 Решаю задачи На Codewars: [![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs) 
 
 <br/><br/>
 
@@ -30,8 +30,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Express" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22"> 
 </p>
-
-[![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs) 
 
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladdevjs&hide=contribs,stars&line_height=20&bg_color=00000000&hide_border=true)  |   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladdevjs&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/vladdevjs/github-readme-stats) |
