@@ -11,7 +11,8 @@
 - 🌱 Изучаю React.js, на очереди Redux и TypeScript
 - 👯 Сейчас работаю над проектом «Mesto»
 - 🤔 Пишу pet-проекты, чтобы закрепить навыки
-- 💬 Решаю задачи На Codewars: [![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs) 
+- 💬 Решаю задачи На Codewars: 
+<p>[![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs)</p>
 
 <br/><br/>
 
