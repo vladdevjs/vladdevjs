@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs) 
+
+
+
+
 <!--
 **vladdevjs/vladdevjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
