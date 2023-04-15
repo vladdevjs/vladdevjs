@@ -12,6 +12,7 @@
 - 👯 Сейчас работаю над проектом «Mesto»
 - 🤔 Пишу pet-проекты, чтобы закрепить навыки
 - 💬 Решаю задачи На Codewars: 
+
 [![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs)
 
 <br/><br/>
