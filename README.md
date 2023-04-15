@@ -11,7 +11,7 @@
 
 [![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladdevjs&hide=contribs,stars&line_height=20bg_color=90,ff0000,ffff00,00ff00)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladdevjs&hide=contribs,stars&line_height=20&bg_color=90,ff0000,ffff00,00ff00)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladdevjs&layout=compact)](https://github.com/vladdevjs/github-readme-stats)
 
 
