@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center">Добро пожаловать на мой GitHub!</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я начинающий фронтендер, изучаю веб-разработчку в Я.Практикуме</h3>
+
 
 [![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs) 
 
