@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a beginner frontend developer, studying web development at Yandex.Practicum.</h3>
+<h3 align="center">I am a beginner frontend developer, studying web development at Yandex.Practicum</h3>
 
 
 
