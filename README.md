@@ -24,7 +24,7 @@
 
 <div id="projects">
   <a href="https://github.com/vladdevjs/react-mesto-auth">
-    <img width="125" src="./images/mesto.png">
+    <img width="160" src="./images/mesto.png">
   </a>
 </div>
 
