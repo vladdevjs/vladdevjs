@@ -26,6 +26,9 @@
   <a href="https://github.com/vladdevjs/react-mesto-auth">
     <img width="160" src="./images/mesto.png">
   </a>
+  <a href="https://github.com/vladdevjs/russian-travel">
+    <img width="160" src="./images/russian-travel.png">
+  </a>
 </div>
 
 ### 📊 Stats:
