@@ -20,7 +20,7 @@
 
 <br/>
 
-### Projects
+### Projects:
 
 <div id="projects">
   <a href="https://github.com/vladdevjs/react-mesto-auth">
