@@ -32,6 +32,9 @@
   <a href="https://github.com/vladdevjs/giphy-client">
     <img width="160" src="./images/gifs.png">
   </a>
+  <a href="https://github.com/vladdevjs/pomodoro-app">
+    <img width="160" src="./images/pomodoro.png">
+  </a>
 </div>
 
 ### 📊 Stats:
