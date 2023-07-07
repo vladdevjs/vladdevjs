@@ -29,6 +29,9 @@
   <a href="https://github.com/vladdevjs/russian-travel">
     <img width="160" src="./images/russian-travel.png">
   </a>
+  <a href="https://github.com/vladdevjs/giphy-client">
+    <img width="160" src="./images/gifs.png">
+  </a>
 </div>
 
 ### 📊 Stats:
