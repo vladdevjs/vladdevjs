@@ -35,6 +35,9 @@
   <a href="https://github.com/vladdevjs/pomodoro-app">
     <img width="160" src="./images/pomodoro-app.png">
   </a>
+  <a href="https://github.com/vladdevjs/how-to-learn">
+    <img width="160" src="./images/how-to-learn.png">
+  </a>
 </div>
 
 ### 📊 Stats:
