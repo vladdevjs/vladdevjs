@@ -23,6 +23,9 @@
 ### 👨🏻‍💻 Projects:
 
 <div id="projects">
+  <a href="https://github.com/vladdevjs/movies-explorer-frontend">
+    <img width="160" src="./images/movies-explorer.png" alt="Movies Explorer">
+  </a>
   <a href="https://github.com/vladdevjs/react-mesto-auth">
     <img width="160" src="./images/mesto.png" alt="Mesto">
   </a>
@@ -34,9 +37,6 @@
   </a>
   <a href="https://github.com/vladdevjs/pomodoro-app">
     <img width="160" src="./images/pomodoro-app.png" alt="Ponodoro App">
-  </a>
-  <a href="https://github.com/vladdevjs/movies-explorer-frontend">
-    <img width="160" src="./images/movies-explorer.png" alt="Movies Explorer">
   </a>
 </div>
 
