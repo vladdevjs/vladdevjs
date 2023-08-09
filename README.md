@@ -24,19 +24,19 @@
 
 <div id="projects">
   <a href="https://github.com/vladdevjs/react-mesto-auth">
-    <img width="160" src="./images/mesto.png">
+    <img width="160" src="./images/mesto.png" alt="Mesto">
   </a>
   <a href="https://github.com/vladdevjs/russian-travel">
-    <img width="160" src="./images/russian-travel.png">
+    <img width="160" src="./images/russian-travel.png" alt="Russian Travel">
   </a>
   <a href="https://github.com/vladdevjs/giphy-client">
-    <img width="160" src="./images/gifs.png">
+    <img width="160" src="./images/gifs.png" alt="Giphy Client">
   </a>
   <a href="https://github.com/vladdevjs/pomodoro-app">
-    <img width="160" src="./images/pomodoro-app.png">
+    <img width="160" src="./images/pomodoro-app.png" alt="Ponodoro App">
   </a>
-  <a href="https://github.com/vladdevjs/how-to-learn">
-    <img width="160" src="./images/how-to-learn.png">
+  <a href="https://github.com/vladdevjs/movies-explorer-frontend">
+    <img width="160" src="./images/movies-explorer.png" alt="Movies Explorer">
   </a>
 </div>
 
