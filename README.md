@@ -6,7 +6,7 @@
 
 - 🧑‍💻 I aspire to grow in a team of professionals
 - 🏫 Currently learning React.js, next on the list are Redux and TypeScript
-- 💻 Currently working on the "Mesto" project
+- 💻 Currently working on my Pet projects
 - 🐈 I work on pet projects to solidify my skills
 - 📃 Solving Codewars challenges:
 
