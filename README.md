@@ -2,13 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Passionate Frontend Developer shaping digital experiences.</h3>
 
-<br/><br/>
+<br/>
 
 - 🧑‍💻 I aspire to grow in a team of professionals
-- 🏫 Currently learning React.js, next on the list are Redux and TypeScript
-- 💻 Currently working on my Pet projects
+- 🏫 Currently learning Next.js and polishing TypeScript knowledge.
 - 🐈 I work on pet projects to solidify my skills
-- 📃 Solving Codewars challenges:
+- 📃 Solving Codewars and LeetCode challenges:
 
 [![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs)
 
