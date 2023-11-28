@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a dedicated frontend developer who thrives on turning innovative ideas into captivating user experiences. My journey in web development is a perpetual learning adventure. Let's build the future of the web together!</h3>
+<h3 align="center">Passionate Frontend Developer shaping digital experiences.</h3>
 
 <br/><br/>
 
