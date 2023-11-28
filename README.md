@@ -1,4 +1,4 @@
-<a href="mailto:vladislavumarov@gmail.com" target="blank"><img src="https://badgen.net/badge/open%20to/work/green" alt="Open to Work" height="60px" width="80px" /></a>
+<a href="mailto:vladislavumarov@gmail.com" target="blank"><img src="https://badgen.net/badge/open%20to/work/green" alt="Open to Work" height="60px" width="140px" /></a>
 
 <h1 align="center">Welcome to my GitHub!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
