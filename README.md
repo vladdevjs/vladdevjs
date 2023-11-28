@@ -7,7 +7,7 @@
 <br/>
 
 - 🧑‍💻 I aspire to grow in a team of professionals
-- 🏫 Currently learning Next.js and polishing TypeScript knowledge.
+- 🏫 Currently learning Next.js and polishing TypeScript knowledge
 - 🐈 I work on pet projects to solidify my skills
 - 📃 Solving Codewars and LeetCode challenges:
 
