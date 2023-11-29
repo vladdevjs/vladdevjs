@@ -9,7 +9,7 @@
 - 🧑‍💻 I aspire to grow in a team of professionals
 - 🏫 Currently learning Next.js and polishing TypeScript knowledge
 - 🐈 I work on pet projects to solidify my skills
-- 📃 Solving Codewars and LeetCode challenges:
+- 📃 Solving Codewars and <a href="https://github.com/vladdevjs/leetcode-submissions">LeetCode</a> challenges:
 
 [![codewars](https://www.codewars.com/users/vladdevjs/badges/large)](https://www.codewars.com/users/vladdevjs)
 
